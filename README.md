@@ -4,7 +4,7 @@
 
 In Project 4, I added GitHub Action Matrix to cicd.yml file, to test multiple python versions and environments in Github Actions. 
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 Note: Since Project 4 is built upon Project 3, the rest of Project 4 remains the same as Project 3.
 
