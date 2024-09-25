@@ -1,6 +1,12 @@
-[![CI](https://github.com/nogibjj/Jennifer_Mini_Polars/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Jennifer_Mini_Polars/actions/workflows/cicd.yml)
+# Mini Project 4: GitHub Actions Matrix Build for Multiple Python Versions
+
+The Project 4 is built upon Project 3. In Project 4, I added GitHub Action Matrix to cicd.yml file, to test multiple python versions and environments in Github Actions. 
+
+
+***********************************
 
 # Mini Project 3: Polars Script
+[![CI](https://github.com/nogibjj/Jennifer_Mini_Polars/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Jennifer_Mini_Polars/actions/workflows/cicd.yml)
 
 ## Project Purpose
 The main purpose of this project is to create Polars script to analyze the job application data, including generating summary statistics and visualization chart.
