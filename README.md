@@ -1,6 +1,8 @@
+[![CI](https://github.com/nogibjj/Jennifer_W4_Github_Action_Matrix/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Jennifer_W4_Github_Action_Matrix/actions/workflows/cicd.yml)
+
 # Mini Project 4: GitHub Actions Matrix Build for Multiple Python Versions
 
-The Project 4 is built upon Project 3. In Project 4, I added GitHub Action Matrix to cicd.yml file, to test multiple python versions and environments in Github Actions. 
+In Project 4, I added GitHub Action Matrix to cicd.yml file, to test multiple python versions and environments in Github Actions. Since Project 4 is built upon Project 3, the rest of this project remains the same as Project 3.
 
 
 ***********************************
